@@ -1,0 +1,5 @@
+show databases;
+use kits;
+db.createCollection('student');
+db.student.insert({'name':'madhu','rollno':478});
+db.student.find();

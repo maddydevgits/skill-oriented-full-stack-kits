@@ -80,7 +80,37 @@
     </tr>
     <tr>
         <td>15</td>
-        <td>Store the name, rollno in mongodb</td>
-        <td>5.00PM</td>
+        <td>Create mongodb database and create table with name, rollno and insert a sample value</td>
+        <td>9.30AM</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>Create python script to read the data from table</td>
+        <td>10.00AM</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>Publish the form data into database table</td>
+        <td>11.00AM</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>Create API to read data from table</td>
+        <td>12.30PM</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>Create API to push data to table using get method</td>
+        <td>1.00PM</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>Create register.html and store records if not exist</td>
+        <td>2.00PM</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>Create login.html and display records if login is valid</td>
+        <td>3.00PM</td>
     </tr>
 </table>
