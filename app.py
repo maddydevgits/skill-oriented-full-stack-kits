@@ -1,3 +1,4 @@
+# https://medium.com/swlh/read-html-form-data-using-get-and-post-method-in-node-js-8d2c7880adbf
 from flask import Flask,render_template,request
 
 app=Flask(__name__)
