@@ -41,7 +41,7 @@
         <td>6</td>
         <td>Blood Management System</td>
         <td>This project aims to create a full-stack web app where there will be donars and recievers. Donars will be registered in the web app and receivers will raise the request broadcasted to all donars based on the location, try to create search where receivers can able to search donars based on the location, blood group and last donated time.
-        <td></td>
+        <td>Sindhuja Team</td>
     </tr>
     <tr>
         <td>7</td>
