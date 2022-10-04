@@ -65,7 +65,7 @@
         <td>10</td>
         <td>Weather App</td>
         <td>This project aims to create a full-stack web app where users can give the location access so that based on the location, the weather details has to be grabbed from weather api and based on the weather the page design should change. 
-        <td></td>
+        <td>Revathi Team</td>
     </tr>
     <tr>
         <td>11</td>
