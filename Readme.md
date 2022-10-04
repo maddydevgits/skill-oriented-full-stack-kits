@@ -17,7 +17,7 @@
         <td>2</td>
         <td>Ideas Directory</td>
         <td>This project aims to create a full-stack web app where users has to see the ideas on different verticals like IoT, AWS, Blockchain, Full Stack and etc... through bootstrap cards or similar UI with a register and login. The users should have an option to submit their ideas and the admin should have an access to accept or deny. If accepts, that should be added to ideas directory. Lucarative UI to attract students to submit more ideas.
-        <td></td>
+        <td>Krishna Team</td>
     </tr>
     <tr>
         <td>3</td>
