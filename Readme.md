@@ -47,7 +47,7 @@
         <td>7</td>
         <td>Secret Chat</td>
         <td>This project aims to create a full-stack web app where to create anonymous users chat with a unique id. When user access this web app, it has to ask join group or create group. The users chat each other in a group, and the chat has to be deleted when users leave the group.
-        <td></td>
+        <td>Mathe Vijaya Mercy</td>
     </tr>
     <tr>
         <td>8</td>
