@@ -29,7 +29,7 @@
         <td>4</td>
         <td>Campus Stack</td>
         <td>This project aims to create a full-stack web app where the students submit an error in the web app, the fellow students will try to help the user by commenting to that thread. Lucrative UI, and should reflect as Stack-Over-Flow thereme. 
-        <td></td>
+        <td>Moullika Team</td>
     </tr>
     <tr>
         <td>5</td>
