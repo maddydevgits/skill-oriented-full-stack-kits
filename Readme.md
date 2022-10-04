@@ -71,7 +71,7 @@
         <td>11</td>
         <td>Quiz App</td>
         <td>This project aims to create a full-stack web app where users can create quiz, this quiz has to load questions from question bank and there should be a time limit for participants to answer the quiz. Finally, you have to create pass or fail status based on the result. 
-        <td></td>
+        <td>Ravi Prakash Team</td>
     </tr>
     <tr>
         <td>12</td>
