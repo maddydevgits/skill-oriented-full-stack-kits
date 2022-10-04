@@ -89,7 +89,7 @@
         <td>14</td>
         <td>Vector hosting platform</td>
         <td>This project aims to create a full-stack web app where designers/developers can upload and store custom SVG images and icons. The code can then be exported so that other people can use them.</td>
-        <td></td>
+        <td>Naga Pranthi Team</td>
     </tr>
     <tr>
         <td>15</td>
