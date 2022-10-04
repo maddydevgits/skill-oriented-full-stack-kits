@@ -77,7 +77,7 @@
         <td>12</td>
         <td>Ad Manager</td>
         <td>This project aims to create a full-stack web app where users can create ad, then immediately the same has to be created in Facebook and Twitter using Developer options. The ad can be deleted and placed from this manager dashboard. 
-        <td></td>
+        <td>Teja Bhaskar Team</td>
     </tr>
     <tr>
         <td>13</td>
