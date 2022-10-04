@@ -53,7 +53,7 @@
         <td>8</td>
         <td>Todo List</td>
         <td>This project aims to create a full-stack web app where users can create their own todo list and should focus on what they want to do in that day and lucrative card UI when users add a new in todo and also should have delete option too. 
-        <td></td>
+        <td>Sindhu Team</td>
     </tr>
     <tr>
         <td>9</td>
