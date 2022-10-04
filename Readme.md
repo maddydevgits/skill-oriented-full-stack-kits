@@ -35,7 +35,7 @@
         <td>5</td>
         <td>Car Pooling</td>
         <td>This project aims to create a full-stack web app where there will be riders and drivers. Drivers will be placing the request saying that he is travelling to a location on the app. Riders can able to see, if they are willing to travel with driver; the rider will bid for that, and driver finalises the bid according to their interest. The pooling of co-passengers will happen like this on app.
-        <td></td>
+        <td>Chiranjeevi Team</td>
     </tr>
     <tr>
         <td>6</td>
