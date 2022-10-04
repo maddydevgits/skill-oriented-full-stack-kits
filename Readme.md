@@ -11,7 +11,7 @@
         <td>1</td>
         <td>Digital Library</td>
         <td>This project aims to create a full-stack web app where users has to access the digital content with a register and login. The dashboard should have an access to submit digital content (videos via YouTube) and the home page displaying the digital content through bootstrap cards or any UI something like HotStar or Amazon Prime.
-        <td></td>
+        <td>Manikanta Team</td>
     </tr>
     <tr>
         <td>2</td>
