@@ -95,7 +95,7 @@
         <td>15</td>
         <td>Complaints Tracking System</td>
         <td>This project aims to create a full-stack web app where students can able to track their complaints and using this application, the students can submit their complaints online regarding the college, administration, transport, canteen, library, teaching methodlogies and events.</td>
-        <td></td>
+        <td>Jasti Chaitanya Jyothi Team</td>
     </tr>
     
     
