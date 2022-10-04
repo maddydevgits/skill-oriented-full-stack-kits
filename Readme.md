@@ -23,7 +23,7 @@
         <td>3</td>
         <td>Team Sprints</td>
         <td>This project aims to create a full-stack web app where team members of a team collaborate and complete the allocated tasks. The team leader or team manager should have an access to allocate tasks in a sprint to the team members. Team members should have a tasks dashboard where they should be able to see what are the tasks allocated, what are the on-going tasks, what are the completed tasks and etc.. with lucartive UI. This is something like a Task Manager and Distribution platform.
-        <td></td>
+        <td>Manju Team</td>
     </tr>
     <tr>
         <td>4</td>
@@ -59,7 +59,7 @@
         <td>9</td>
         <td>Workout Tracker</td>
         <td>This project aims to create a full-stack web app where users can log their workouts using Google Fit data or custom logged data. Analysis or visualisation on the data can also be showcased. 
-        <td></td>
+        <td>Eswar Kumar Team</td>
     </tr>
     <tr>
         <td>10</td>
