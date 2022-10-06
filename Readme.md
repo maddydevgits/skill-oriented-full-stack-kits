@@ -97,6 +97,12 @@
         <td>This project aims to create a full-stack web app where students can able to track their complaints and using this application, the students can submit their complaints online regarding the college, administration, transport, canteen, library, teaching methodlogies and events.</td>
         <td>Jasti Chaitanya Jyothi Team</td>
     </tr>
+    <tr>
+        <td>16</td>
+        <td>Appointment Booking System</td>
+        <td>This project aims to create a full-stack web app where users has to request appointments for the guests available in the dashboard and the guests has to accept/reject the appointment based on the reason why user wants to meet. Use lucrative UI and simple UI components for making the application interesting and attractive.</td>
+        <td>Sai Krishna Team</td>
+    </tr>
     
     
 </table>
